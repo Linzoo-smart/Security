@@ -5,8 +5,20 @@ By default, products are supported for at least 3 years from release date. The p
 ### 1. Communication Stick
 | Product Model | Country | Release Date | Security Update EOL | OS Version |
 | --- | --- | --- | --- | --- |
-| TSW-T Series | Global | 2024-3-27 | 2027-3-27 | 3.3 |
+| TSW-T Series | Global | 2024-3-27 | 2027-3-27 | 3.3 or higher|
 ### 2. Smart Tag
 | Product Model | Country | Release Date | Security Update EOL | OS Version |
 | --- | --- | --- | --- | --- |
-| TTFM-10 | Global | 2024-3-27 | 2027-3-27 | 3.3 |
+| TTFM-10 | Global | 2024-3-27 | 2027-3-27 | 3.3 or higher |
+| TTFM-50 | Global | 2024-3-27 | 2027-3-27 | 3.3 or higher |
+### 3. Smart Camera
+| Product Model | Country | Release Date | Security Update EOL | OS Version |
+| --- | --- | --- | --- | --- |
+| SC155-WQ3 | Global | 2024-6-19 | 2027-6-19 | 3.3 or higher |
+| SF053-WQ2 | Global | 2024-6-19 | 2027-6-19 | 3.3 or higher |
+| SC053-WQ2 | Global | 2024-6-19 | 2027-6-19 | 3.3 or higher |
+### 4. Smart Doorbell
+| Product Model | Country | Release Date | Security Update EOL | OS Version |
+| --- | --- | --- | --- | --- |
+| SC162-WCD3 | Global | 2024-6-19 | 2027-6-19 | 3.3 or higher |
+| SC060-WCB2 | Global | 2024-6-19 | 2027-6-19 | 3.3 or higher |
